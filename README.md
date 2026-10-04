@@ -1,0 +1,2 @@
+# premium-heat-sink-001-heat-sink-milling-fin-array
+Tired of guessing fin spacing and milling feeds for your custom heatsinks? The Heat Sink Milling &amp; Fin Array Craft Hub turns your Notion into a precision thermal design studio.  Eliminate scrap material and iterative guesswork. This template centralizes your fin array geometry, milling parameters, material inventory, and thermal test data so you ca
